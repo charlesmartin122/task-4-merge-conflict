@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Team Profile</title>
+</head>
+<body>
+    <h1>Team Profile</h1>
+    <p>Team Name: Team Rockets</p>
+    <p>Members: Student A & Student B</p>
+</body>
+</html>

@@ -1,0 +1,36 @@
+=== index.html WITH CONFLICT MARKERS (during failed merge) ===
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Team Profile</title>
+</head>
+<body>
+    <h1>Team Profile</h1>
+<<<<<<< HEAD
+    <p>Team Name: Team Rockets</p>
+=======
+    <p>Team Name: Code Titans</p>
+>>>>>>> student-b
+    <p>Members: Student A & Student B</p>
+</body>
+</html>
+
+=== git status (during conflict) ===
+On branch main
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+  (use "git merge --abort" to abort the merge)
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+	both modified:   index.html
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	deliverables/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+=== merge command output ===
+CONFLICT (content): Merge conflict in index.html
+Automatic merge failed; fix conflicts and then commit the result.

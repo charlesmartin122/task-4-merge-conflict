@@ -1,0 +1,12 @@
+=== Branches (git branch) ===
+* main
+  student-a
+  student-b
+
+=== History (git log --graph --oneline --all) ===
+*   6c535fb resolve merge conflict: final team name is Team Rockets
+|\  
+| * 20ca51e student B update
+* | c687228 student A update
+|/  
+* b1db4e7 initial commit: team profile page
